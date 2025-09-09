@@ -2,3 +2,8 @@ creds
 How.md
 subscription
 .terraform
+id_*
+Terraform.bak
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
