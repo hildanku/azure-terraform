@@ -7,3 +7,4 @@ Terraform.bak
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
+Success.txt
